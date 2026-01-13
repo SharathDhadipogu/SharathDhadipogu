@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sharath Dhadipogu
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Continuous+Learner&font=Fira+Code&center=true&width=700&height=45)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Continuous+Learner&font=Fira+Code&center=true&width=700&height=45)
 
 ---
 
